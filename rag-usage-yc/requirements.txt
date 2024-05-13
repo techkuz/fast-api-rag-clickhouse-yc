@@ -1,0 +1,8 @@
+fastapi==0.111.0
+clickhouse-connect==0.7.8
+langchain==0.1.20
+boto3==1.34.103
+unstructured==0.13.7
+unstructured[csv]
+grpcio==1.63.0
+yandexcloud==0.278.0

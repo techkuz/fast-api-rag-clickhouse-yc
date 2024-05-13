@@ -1,0 +1,6 @@
+venv
+__pycache__
+.clickhouse
+.terraform*
+terraform*
+.json
